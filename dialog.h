@@ -5,6 +5,8 @@
 #include <QString>
 #include "mythread.h"
 
+//testing
+
 namespace Ui {
 class Dialog;
 }
