@@ -3,6 +3,8 @@
 #include "mythread.h"
 #include <qmovie.h>
 
+//testing git
+
 Dialog::Dialog(QWidget *parent) :
     QDialog(parent),
     ui(new Ui::Dialog)
